@@ -2,7 +2,7 @@
 
 This is a repository for training techniques on reproducible research. Including tools for version control and environment creation.
 
-Following the recomendation of [Patrick Schloss](https://youtu.be/olu821RTQA).
+Following the recomendation of [Patrick Schloss](https://www.youtube.com/watch?v=olu821RTQA8).
 
 Useful commands from this episode:
 
