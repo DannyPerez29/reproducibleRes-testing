@@ -15,3 +15,12 @@ Useful commands from this episode:
     -mkdir to create directories
     -git status
     -git commit -m for message and -amend for corrections
+
+Following the recomendation of [Patrick Schloss](https://www.youtube.com/watch?v=Ft8ayhfgaqo&t=304s).
+
+Useful commands from this episode:
+
+    -chmod +x
+    -#!/usr/bin/env bash
+    -echo
+    -tar tf
