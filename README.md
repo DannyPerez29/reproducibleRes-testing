@@ -26,3 +26,13 @@ Useful commands from this episode:
     -tar tf
     -grep and | pipe character, > creates and writes >> append
     -wc -l number of lines in the file
+
+Following the recomendation of [Patrick Schloss](https://www.youtube.com/watch?v=r9PWnEmz_tc).
+
+Useful commands from this episode:
+
+    -snakemake --dry-run run but not modifying anything
+    -snakemake -np shows the line of code that will run
+    -snakemake -c 1 
+    -snakemake --dag creates the dag raw information
+    -dot -Tpng creates the visualization of dag data in png. It needs to be pipetted to a new file.

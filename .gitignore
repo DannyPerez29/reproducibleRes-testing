@@ -1,6 +1,9 @@
 # Folders
 data/
 
+#Snakemake
+.snakemake
+
 # History files
 .Rhistory
 .Rapp.history
