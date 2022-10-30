@@ -22,5 +22,7 @@ Useful commands from this episode:
 
     -chmod +x
     -#!/usr/bin/env bash
-    -echo
+    -echo gives the file name
     -tar tf
+    -grep and | pipe character, > creates and writes >> append
+    -wc -l number of lines in the file
