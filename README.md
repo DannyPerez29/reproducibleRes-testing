@@ -41,5 +41,8 @@ Following the recomendation of [Patrick Schloss](https://www.youtube.com/watch?v
 
 Useful commands from this episode:
 
-    -tar xvzf decompress the data
+    -tar xvzf decompress the data -C flag to select output directory. Also adding the names of the files extract only those files. 
     -du -sh shows the quantification of the space used
+    -glue
+    -read_fwf and parameters on this function
+    -saving the data on tsv format
