@@ -36,3 +36,10 @@ Useful commands from this episode:
     -snakemake -c 1 
     -snakemake --dag creates the dag raw information
     -dot -Tpng creates the visualization of dag data in png. It needs to be pipetted to a new file.
+
+Following the recomendation of [Patrick Schloss](https://www.youtube.com/watch?v=nNKwcIfcwgo&list=PLmNrK_nkqBpK6iqwN3QeQyXqI6DrcGgIm&index=4).
+
+Useful commands from this episode:
+
+    -tar xvzf decompress the data
+    -du -sh shows the quantification of the space used
